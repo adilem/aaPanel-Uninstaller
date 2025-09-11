@@ -19,7 +19,7 @@ Use these scripts if you want to completely remove aaPanel and its related servi
 ## ⚡ Windows Uninstaller (`uninstall_aapanel.bat`)
 
 ### Usage
-1. Download the `uninstall_aapanel.bat` file.
+1. Download the `aapanel_windows_uninstaller.bat` file.
 2. Right-click → **Run as Administrator**.
 3. Enter the aaPanel installation folder path (default: `J:\data\aapanel`).
 4. The script will:
@@ -33,7 +33,7 @@ Use these scripts if you want to completely remove aaPanel and its related servi
 ## ⚡ Linux Uninstaller (`uninstall_aapanel.sh`)
 
 ### Usage
-1. Download the `uninstall_aapanel.sh` file.
+1. Download the `aapanel_linux_uninstaller.sh` file.
 2. Make it executable:
    ```bash
-   chmod +x uninstall_aapanel.sh
+   chmod +x aapanel_linux_uninstaller.sh

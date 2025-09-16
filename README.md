@@ -32,8 +32,4 @@ Use these scripts if you want to completely remove aaPanel and its related servi
 
 ## ⚡ Linux Uninstaller (`uninstall_aapanel.sh`)
 
-### Usage
-1. Download the `aapanel_linux_uninstaller.sh` file.
-2. Make it executable:
-   ```bash
    wget -O - https://raw.githubusercontent.com/adilem/aaPanel-Uninstaller/refs/heads/main/aapanel_linux_uninstaller.sh | bash
